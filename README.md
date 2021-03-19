@@ -5,12 +5,12 @@
 _________
 
 ### 📌 Contexto
-
-Um hospital deseja prever ataques cardíacos nos pacientes que dão entrada no seu setor de emergência. Para isso, reuniu informações a respeito de 303 pacientes atendidos previamente, indicando se sofreram, ou não, um ataque cardíaco.
+<p align="justify">
+Um hospital deseja prever ataques cardíacos nos pacientes que dão entrada no seu setor de emergência. Para isso, reuniu informações a respeito de 303 pacientes atendidos previamente, indicando se sofreram, ou não, um ataque cardíaco.</p>
 
 ### 📚 Projeto
-
-O objetivo do trabalho é realizar um estudo comparativo das técnicas de classificação KNN e SVM (Support Vector Machine) na previsão de ataques cardíacos, utilizando métricas e técnicas de validação de modelos.
+<p align="justify">
+O objetivo do trabalho é realizar um estudo comparativo das técnicas de classificação KNN e SVM (Support Vector Machine) na previsão de ataques cardíacos, utilizando métricas e técnicas de validação de modelos.</p>
 
 ### :computer: Implementação
 
