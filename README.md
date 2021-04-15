@@ -13,12 +13,11 @@ Um hospital deseja prever ataques cardíacos nos pacientes que dão entrada no s
 O objetivo do trabalho é realizar um estudo comparativo das técnicas de classificação KNN e SVM (Support Vector Machine) na previsão de ataques cardíacos, utilizando métricas e técnicas de validação de modelos.</p>
 
 ### :computer: Implementação
-
-Em breve
+[Previsão de ataque cardíaco usando Google Colab](https://github.com/eduardarsimoes/IN_PrevisaoAtaqueCardiaco/blob/main/IN_Trab2_PrevisaoAtaqueCardiaco.ipynb)
 
 ### 📰 Artigo
 
-Em breve
+[Análise comparativa de técnicas de classificação KNN e SVM para previsão de ataque cardíaco](https://github.com/eduardarsimoes/IN_PrevisaoAtaqueCardiaco/blob/main/IN_Trab2_Artigo_Previs%C3%A3oAtaqueCardiaco_EduardaThiago.pdf)
 _________
 
 ## 👪 Colaboradores<br>
